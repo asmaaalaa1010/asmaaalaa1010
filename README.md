@@ -1,5 +1,5 @@
 
-<h3 align="center">
+<h3 align="center" text-shadow: 10px 10px F7155C>
   Welcome to Asmaa alaa's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
